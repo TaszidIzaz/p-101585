@@ -45,7 +45,7 @@ export const Hero: React.FC = () => {
         </div>
         <div className="relative">
           <img 
-            src="/lovable-uploads/4064f764-892e-4c9e-a3ea-a86c47665831.png" 
+            src="/lovable-uploads/c224451e-7381-4fd1-8102-deab5b0200fc.png" 
             alt="Professional educators" 
             className="max-w-[600px] z-10 relative"
           />
