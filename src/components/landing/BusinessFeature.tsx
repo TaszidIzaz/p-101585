@@ -1,24 +1,15 @@
+
 import React from "react";
 
 export const BusinessFeature: React.FC = () => {
   return (
     <section className="mb-[120px] px-[97px] py-0 max-md:px-6 max-md:py-[60px]">
       <div className="flex justify-between items-center gap-[100px] max-md:flex-col">
-        <div className="relative w-[638px] max-md:w-full">
+        <div className="relative w-full max-w-[638px]">
           <img
-            src="https://cdn.builder.io/api/v1/image/assets/TEMP/f8c489228a04a382a635e585b8171fe0d755a10a"
-            className="shadow-[0_2.783px_20.872px_0_rgba(0,0,0,0.25),0_1.236px_1.236px_0_rgba(0,0,0,0.25)] w-[445px] h-[292px] absolute rounded-[10px] border-[7px] border-solid border-white right-0 bottom-0"
-            alt="Dashboard Preview 1"
-          />
-          <img
-            src="https://cdn.builder.io/api/v1/image/assets/TEMP/f571921798cb1f4e107f59e73da2b3195da394c5"
-            className="shadow-[0_2.783px_20.872px_0_rgba(0,0,0,0.25),0_1.236px_1.236px_0_rgba(0,0,0,0.25)] w-[445px] h-[333px] rounded-[10px] border-[7px] border-solid border-white"
-            alt="Dashboard Preview 2"
-          />
-          <img
-            src="https://cdn.builder.io/api/v1/image/assets/TEMP/b993f22a13a5e7706ab7e0a9bc319834718e9f43"
-            className="w-[204px] h-[173px] -rotate-90 absolute right-[-50px] bottom-0"
-            alt="Arrow"
+            src="/lovable-uploads/29f264ca-293c-44ca-afcd-d2c88d8e3371.png"
+            className="w-full rounded-[10px] border-[7px] border-solid border-white shadow-[0_2.783px_20.872px_0_rgba(0,0,0,0.25),0_1.236px_1.236px_0_rgba(0,0,0,0.25)]"
+            alt="EduLink Academy Dashboard"
           />
         </div>
         <div className="max-w-[540px]">
