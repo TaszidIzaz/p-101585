@@ -9,7 +9,6 @@ import { ComingSoon } from "@/components/landing/ComingSoon";
 import { Footer } from "@/components/landing/Footer";
 import { NewsletterForm } from "@/components/landing/NewsletterForm";
 import { ContactForm } from "@/components/landing/ContactForm";
-import { SearchBar } from "@/components/landing/SearchBar";
 import { PopularCourses } from "@/components/landing/PopularCourses";
 import { Features } from "@/components/landing/Features";
 
@@ -19,9 +18,6 @@ const Index = () => {
       <Header />
 
       <main>
-        <div className="flex justify-between items-center px-[97px] pt-6 max-md:px-6">
-          <SearchBar />
-        </div>
         <Hero />
         <Features />
         <BusinessDashboard />
